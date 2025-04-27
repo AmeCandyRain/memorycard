@@ -21,6 +21,8 @@ questions_list.append(Question('Когда приедет мой заказ с O
 questions_list.append(Question('Ваш уровень знания python', 'Впервые слышу', 'Немного разбираюсь', 'Средний', 'Высокий'))
 questions_list.append(Question('Дата инагурации Путина', '07.05.24', '11.09.02', '20.01.25', 'а?'))
 questions_list.append(Question('самая популярная игра в мире', 'RAID: shadow legends', 'minecraft', 'league of legends', 'Dota2'))
+questions_list.append(Question('Сколько стоит любовь', '28 мультов', '1 мёртвая бабушка', 'психическое расстройство', 'дружеские отношения'))
+questions_list.append(Question('Кто виноват в сво', 'никто', 'вв Путин', 'Илон маск', 'Байден'))
 
 app = QApplication([])
 main_win = QWidget()
